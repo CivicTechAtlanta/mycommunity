@@ -1,2 +1,2 @@
-# MyCommunity - Street Assessment Engine
-Tools for evaluation and rating.
+# MyCommunity
+A sidewalk and pathway quality assessment system.
